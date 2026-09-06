@@ -1,150 +1,222 @@
 <div align="center">
 
-# Hi, I'm Ali 👋
+# Ali Rahmi Rafsanjani
 
-### Information Systems Student · Digital Product · UI/UX · Cybersecurity
+### Information Systems Student · Product Builder · UI/UX · Cybersecurity
 
-*Building digital products with a focus on technology, usability, and security.*
+Building digital products where **technology, usability, and security** meet.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ali-rahmi-rafsanjani-b51705284/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirahmi.us@gmail.com)
+<a href="https://github.com/Alirahmirafsanjani">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ali-rahmi-rafsanjani-b51705284/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:243100400@almaata.ac.id">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm an **Information Systems student at Universitas Alma Ata** with an interest in building digital products that combine **technology, design, and security**.
+I'm an **Information Systems student at Universitas Alma Ata** with an interest in building digital products from idea to implementation.
 
-My interests include:
+My work sits at the intersection of:
 
-- 🎨 **UI/UX & Product Design**
-- 💻 **Web & Application Development**
-- 🔐 **Cybersecurity & Digital Forensics**
-- 🚀 **Digital Product & Innovation**
-- 👥 **Technology & Project Leadership**
+- **Product Development** — turning problems into practical digital solutions
+- **UI/UX Design** — designing interfaces with usability and user needs in mind
+- **Web Development** — building and deploying web-based systems
+- **Cybersecurity** — exploring OSINT, digital forensics, and security awareness
 
-I enjoy turning problems into practical digital solutions — from understanding user needs and designing interfaces to developing and deploying functional systems.
+I enjoy working on projects where I can combine **technical thinking, product design, and problem solving**.
 
 ---
 
-## 🚀 Featured Projects
+## What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### Product & Design
+
+- Product ideation
+- UI/UX Design
+- User-Centered Design
+- User flow & feature specification
+- Prototyping with Figma
+- Product documentation
+
+</td>
+<td width="50%">
+
+### Technology & Security
+
+- Web development
+- Python development
+- REST API concepts
+- System deployment
+- OSINT
+- Digital forensics
+- Cybersecurity awareness
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
 
 ### 🤖 Rafsistant
 
-**Personal Telegram Assistant for Financial Management**
+**Personal Assistant · Python · Telegram**
 
-A Telegram-based personal assistant designed to simplify financial transaction management through automation.
+A Telegram-based personal assistant designed to help manage everyday information and personal finance activities.
 
-**Role:** Developer  
-**Focus:** Backend Development · Automation · System Integration · VPS
+**Highlights**
+- Telegram bot interface
+- Personal finance tracking
+- Transaction recording
+- Integration with digital financial services
+- Self-managed VPS deployment
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alirahmirafsanji/rafsistant)
+**Focus:** Automation · Personal Productivity · FinTech
 
----
-
-### ⚡ Technika Fest 2026
-
-**Event Registration & Automation Platform**
-
-A web-based platform developed to support event management through digital registration, automated feedback collection, and e-certificate generation.
-
-**Role:** Developer  
-**Focus:** Web Development · Automation · Event Management
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alirahmirafsanji/technika-fest-2026)
+[View Repository →](https://github.com/Alirahmirafsanjani/rafsistant)
 
 ---
 
-## 🧠 Selected Product Work
+### 🌐 Technika Fest 2026
+
+**Event Management Platform · Laravel / Blade**
+
+A web platform developed to support event administration and participant management.
+
+The system focuses on simplifying the event workflow, including:
+
+- Participant registration
+- Automated feedback
+- E-certificate generation
+- Web-based event administration
+
+**Focus:** Web Development · Automation · Event Technology
+
+[View Repository →](https://github.com/Alirahmirafsanjani/technika-fest-2026)
+
+---
+
+## Selected Product Work
+
+Some of my work focuses more on **product development and prototyping** than public source code.
 
 ### 🛡️ Aegis
 
-**Personal Digital Security Solution**
+**Personal Digital Security · Android · Product Design**
 
-A digital security product concept developed for **ISPHORIA 2026**, focused on helping users identify and respond to common digital risks.
+A context-aware personal digital security concept designed to help users understand and respond to everyday digital risks.
 
-**Role:** CTO
-
-My responsibilities included:
+As CTO, I worked on:
 
 - Technical architecture
 - Feature specification
 - User flow
-- Product prototyping
+- Figma prototyping
 - Security & privacy considerations
-- Technical feasibility
+- Risk detection and intervention concepts
 
-> Aegis is presented as a product case study and prototype rather than a production repository.
+**Core areas:** Link Protection · Call Protection · Wi-Fi Trust Assessment
 
 ---
 
 ### 📱 GoFour
 
-**Student Productivity Application**
+**Student Productivity · UI/UX · User-Centered Design**
 
-A task management application designed using a **User-Centered Design (UCD)** approach to support student productivity.
+A student task and productivity application designed using a **User-Centered Design (UCD)** approach.
 
-**Role:** Lead Developer
-
-**Focus:** UI/UX · User-Centered Design · Digital Product
+The project explored how digital tools can help students organize academic activities more effectively.
 
 ---
 
 ### 🧭 Arahku
 
-**Digital Career Guidance Platform**
+**Digital Career Guidance · Product Design**
 
-A digital platform designed to help high school students explore higher-education pathways and make more informed decisions about their future studies.
+A digital platform concept focused on helping users explore career directions through a structured digital experience.
 
-**Role:** Initiator
-
-**Focus:** Digital Product · Education Technology · User Experience
+**Focus:** Product Thinking · UX Research · Digital Solutions
 
 ---
 
-## 🛠️ Skills & Tools
+## Tech Stack
 
-### Design & Product
+### Languages & Development
 
-`Figma` · `UI/UX Design` · `User-Centered Design`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
 
-### Development
+### Product & Design
 
-`HTML` · `CSS` · `JavaScript` · `Python`
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/User--Centered_Design-111111?style=flat-square" />
+</p>
 
-### Cybersecurity
+### Security & Digital Investigation
 
-`OSINT` · `Digital Forensics`
+<p>
+<img src="https://img.shields.io/badge/OSINT-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital_Forensics-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square" />
+</p>
 
-### Creative
+### Tools
 
-`Photography` · `Videography` · `Adobe Photoshop` · `CapCut`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/CapCut-111111?style=flat-square" />
+</p>
 
 ---
 
-## 🏆 Highlights
+## Highlights
+
+🏆 **1st Honorable Mention — Idea Business Competition (IBC) UKSW 2026**
 
 🎓 **Information Systems — Universitas Alma Ata**
 
-🏛️ **Google Student Ambassador 2026**
+🌐 **Google Student Ambassador 2026**
 
-👥 **Chairman — Himpunan Mahasiswa Sistem Informasi (HIMSI UAA)**  
-2025 — 2026
+👥 **Chairman — HIMSI Universitas Alma Ata 2025–2026**
 
-🥇 **1st Honorable Mention — Idea Business Competition (IBC)**  
-Universitas Kristen Satya Wacana · 2026
+🛡️ **CTO — Aegis, ISPHORIA 2026**
 
 ---
 
-## 📌 Currently
+## Currently
+
+I'm currently exploring how to build better digital products by combining:
 
 ```text
-🎓 Studying Information Systems
-🔐 Exploring Cybersecurity & Digital Forensics
-🎨 Designing digital products
-💻 Building practical systems
-🚀 Developing my personal portfolio
+Technology
+    +
+Product Thinking
+    +
+User Experience
+    +
+Cybersecurity
